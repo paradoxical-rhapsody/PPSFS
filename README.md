@@ -19,4 +19,4 @@ install_git("https://github.com/paradoxical-rhapsody/PPSFS.git")
 
 ## Reference
 
-> Z. Xu, S. Luo and Z. Chen (2022). [Partial profile score feature selection in high-dimensional generalized linear interaction models](https://dx.doi.org/10.4310/21-SII706)
+> Xu Z., Luo S. and Chen Z. (2022). [Partial profile score feature selection in high-dimensional generalized linear interaction models](https://dx.doi.org/10.4310/21-SII706)

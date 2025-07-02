@@ -2,18 +2,18 @@ Package: PPSFS
 Type: Package
 Title: Partial Profile Score Feature Selection in High-Dimensional
     Generalized Linear Interaction Models
-Version: 0.1.0
-Date: 2022-03-19
+Version: 0.1.1
+Date: 2025-07-02
 Authors@R: c(
-    person("Zengchao", "Xu", role = c("aut", "cre"), email = "zengc.xu@aliyun.com"),
-    person("Shan", "Luo",    role="aut"),
-    person("Zehua", "Chen",  role="aut"))
+    person("Zengchao", "XU", role = c("aut", "cre"), email = "zengc.xu@aliyun.com"),
+    person("Shan", "LUO",    role="aut"),
+    person("Zehua", "CHEN",  role="aut"))
 Maintainer: Zengchao Xu <zengc.xu@aliyun.com>
 Description: 
     This is an implementation of the partial profile score feature 
     selection (PPSFS) approach to generalized linear (interaction) models. 
     The PPSFS is highly scalable even for ultra-high-dimensional feature space. 
-    See the paper by Xu, Luo and Chen (2021, <doi:10.4310/21-SII706>).
+    See the paper by Xu, Luo and Chen (2022, <doi:10.4310/21-SII706>).
 URL: https://github.com/paradoxical-rhapsody/PPSFS
 BugReports: https://github.com/paradoxical-rhapsody/PPSFS/issues
 Imports: Rcpp, brglm2
@@ -22,4 +22,4 @@ License: GPL-3
 Encoding: UTF-8
 Language: en-US
 Roxygen: list(load="source", markdown=TRUE)
-RoxygenNote: 7.1.2
+RoxygenNote: 7.3.2

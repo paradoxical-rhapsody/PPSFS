@@ -6,7 +6,7 @@
 \alias{PPSFS-package}
 \title{PPSFS: Partial Profile Score Feature Selection in High-Dimensional Generalized Linear Interaction Models}
 \description{
-This is an implementation of the partial profile score feature selection (PPSFS) approach to generalized linear (interaction) models. The PPSFS is highly scalable even for ultra-high-dimensional feature space. See the paper by Xu, Luo and Chen (2021, <doi:10.4310/21-SII706>).
+This is an implementation of the partial profile score feature selection (PPSFS) approach to generalized linear (interaction) models. The PPSFS is highly scalable even for ultra-high-dimensional feature space. See the paper by Xu, Luo and Chen (2022, \doi{10.4310/21-SII706}).
 }
 \seealso{
 Useful links:
@@ -17,12 +17,12 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Zengchao Xu \email{zengc.xu@aliyun.com}
+\strong{Maintainer}: Zengchao XU \email{zengc.xu@aliyun.com}
 
 Authors:
 \itemize{
-  \item Shan Luo
-  \item Zehua Chen
+  \item Shan LUO
+  \item Zehua CHEN
 }
 
 }

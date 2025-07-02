@@ -20,7 +20,7 @@ NULL
 #' @description `ppsfs`: PPSFS for **main-effects**.
 #' @details 
 #' That `ppsfs(x, y, family="gaussian")` is an implementation to 
-#' *sequential lasso* method proposed by Luo and Chen \doi{10/f6kfr6}.
+#' *sequential lasso* method proposed by Luo and Chen(2014, <\doi{10/f6kfr6}>).
 #' 
 #' @examples
 #' ## ***************************************************
