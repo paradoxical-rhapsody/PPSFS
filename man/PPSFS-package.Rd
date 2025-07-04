@@ -17,12 +17,12 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Zengchao XU \email{zengc.xu@aliyun.com}
+\strong{Maintainer}: Zengchao Xu \email{zengc.xu@aliyun.com}
 
 Authors:
 \itemize{
-  \item Shan LUO
-  \item Zehua CHEN
+  \item Shan Luo
+  \item Zehua Chen
 }
 
 }

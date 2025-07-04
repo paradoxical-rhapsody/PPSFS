@@ -3,11 +3,11 @@ Type: Package
 Title: Partial Profile Score Feature Selection in High-Dimensional
     Generalized Linear Interaction Models
 Version: 0.1.1
-Date: 2025-07-02
+Date: 2025-07-04
 Authors@R: c(
-    person("Zengchao", "XU", role = c("aut", "cre"), email = "zengc.xu@aliyun.com"),
-    person("Shan", "LUO",    role="aut"),
-    person("Zehua", "CHEN",  role="aut"))
+    person("Zengchao", "Xu", role = c("aut", "cre"), email = "zengc.xu@aliyun.com"),
+    person("Shan", "Luo",    role="aut"),
+    person("Zehua", "Chen",  role="aut"))
 Maintainer: Zengchao Xu <zengc.xu@aliyun.com>
 Description: 
     This is an implementation of the partial profile score feature 
