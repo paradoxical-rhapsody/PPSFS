@@ -58,7 +58,7 @@ Index set of identified features.
 }
 \details{
 That \code{ppsfs(x, y, family="gaussian")} is an implementation to
-\emph{sequential lasso} method proposed by Luo and Chen(2014, \if{html}{\out{<\doi{10/f6kfr6}>}}).
+\emph{sequential lasso} method proposed by Luo and Chen(2014, <\doi{10/f6kfr6}>).
 }
 \examples{
 ## ***************************************************
